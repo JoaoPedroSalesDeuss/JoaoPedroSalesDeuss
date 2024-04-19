@@ -14,7 +14,7 @@
 <tr>
 <td><a href="https://github.com/JoaoPedroSalesDeuss" target="_blank"><img src="https://github.com/JoaoPedroSalesDeuss/JoaoPedroSalesDeuss/blob/main/img/github.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="joaopedrosalesdedeuss2002@gmail.com" target="_blank"><img src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/gmail2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://mail.google.com/mail/u/1/#inbox?compose=CllgCJfpKljLGkKlBgVcjfHfZHcPzvlKtSMmLdLDlJMfFsDtdmLZCLDxctJqJSRVDvFBwZcvdRL" target="_blank"><img src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/gmail2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://w.app/joaopedrosalesdedeus" target="_blank"><img src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
