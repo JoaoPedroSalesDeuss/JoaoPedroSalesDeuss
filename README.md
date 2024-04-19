@@ -30,14 +30,14 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Davidson</code>, tenho 23 anos, moro em BH e sou Dev. Atualmente trabalho como <code>assistente de TI</code> e estou no 4° período de Análise e Desenvolvimento de Sistemas do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a></i>👨🏻‍💻<br />
+<i>:wave: <b>Olá</b>, me chamo <code>João Pedro Sales de Deus</code>, tenho 22 anos, moro em Belo Horizonte e sou Desenvolvedor Back-end e Front-end. Atualmente, estou cursando Ciência da Computação na Universidade <code>Pontifícia Universidade Católica de Minas Gerais</code>, e estou no 1° período.</i>👨🏻‍💻<br />
 </div>
 
 -----
 
 <img height="20" alt="GIF" src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
 <div align="justify">
-Minhas habilidades incluem programação em C, Java e Javascript, além de trabalhar com bancos de dados MySQL e MongoDB. Destaco-me pela eficiência no desenvolvimento em C, pela construção de soluções robustas com microsserviços em Java com Spring e pela proficiência em Javascript para aplicações web modernas. Já trabalhei com suporte técnico, oferecendo assistência qualificada aos usuários, resolvendo problemas relacionados à rede e configurações de sistemas operacionais Linux e Windows, oferecendo suporte na instalação e manutenção de software e hardware. Também já trabalhei com alguns sistemas específicos como SAP, WMS, Fluig e Tiflux. Estou sempre em busca de desafios e oportunidades para aprimorar minhas habilidades. Vamos construir algo incrível juntos?
+Sou o joão Pedro Sales de Deus, tenho 22 anos e cursando Ciência da Computação na universidade Pontifícia Universidade Católica de Minas Gerais (Puc Minas). Pretendo trabalhar na área de Segunraça da Informação e Desenvolvimento de Software. Após minha graduação, quero fazer uma pós em cibersegurança e Desenvolvimento de Software, e ir estudar / trabalhar no Canadá.
 </div>
 
 -----
