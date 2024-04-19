@@ -51,18 +51,14 @@ Sou o joão Pedro Sales de Deus, tenho 22 anos e cursando Ciência da Computaç�
 
 <div align="justify">
 <p>
-- :necktie: &nbsp; Trabalho como Assistente de TI há 1 ano.<br />
-- :man_student: &nbsp; Sou estudante de ADS - Análise e Desenvolvimento de Sistemas.<br />
+- :necktie: &nbsp; Estudante<br />
+- :man_student: &nbsp; Sou estudante de Ciência da Computação<br />
 - :briefcase: &nbsp; Tenho interesse em vagas para Dev Jr.<br />
-- :soccer:&nbsp; Sou cruzeirense, lógico! 🦊<br />
-- :basketball: &nbsp; Também gosto bastante de basquete/NBA.<br />
+- :soccer:&nbsp; Sou Atleticano<br />
 - :airplane: &nbsp; Adoro viajar e conhecer novos lugares.<br />
-- :video_game: &nbsp; Gosto de jogar LOL nas horas vagas.<br />
-- :policeman: &nbsp; Já servi ao exército brasileiro.<br />
-- :parrot: &nbsp; Meu pet é uma cacatua com um belo topete.<br />
+- :cat: &nbsp; Meu pet é um gatinho com muito pelo.<br />
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
-- :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:davidson.afg@gmail.com" target="_blank">e-mail</a> pessoal.<br />
-- :calendar: &nbsp; Essa é minha <a href="https://calendly.com/davidsonfg/30min" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />
+- :mailbox: &nbsp; Para me encontrar, esse é meu <a href="https://mail.google.com/mail/u/1/#inbox?compose=CllgCJfpKljLGkKlBgVcjfHfZHcPzvlKtSMmLdLDlJMfFsDtdmLZCLDxctJqJSRVDvFBwZcvdRL" target="_blank">e-mail</a> pessoal.<br />
 </p>
 </div>
 </div>
