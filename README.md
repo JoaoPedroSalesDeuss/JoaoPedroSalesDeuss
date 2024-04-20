@@ -1,53 +1,20 @@
 -----
 
-<div style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://github.com/JoaoPedroSalesDeuss/JoaoPedroSalesDeuss/blob/main/minha%20pasta/header.gif" width="1028" height="350" />
-    <div>
-        <i>:wave: <b>Olá</b>, me chamo <code>João Pedro Sales de Deus</code>, tenho 22 anos, moro em Belo Horizonte e sou Desenvolvedor Back-end e Front-end. Atualmente, estou cursando Ciência da Computação na Universidade <code>Pontifícia Universidade Católica de Minas Gerais</code>, e estou no 1° período.</i>👨🏻‍💻<br />
+
+<div style="display: flex; align-items: center;">
+    <img src="https://data.bloggif.com/distant/user/store/0/8/a/8/f03f35b76d7c923ccbef643585088a80.gif" alt="Imagem de Perfil" style="width: 200px; height: auto; margin-right: 20px;">
+    <div style="font-family: Arial, sans-serif; font-size: 16px; line-height: 1.5;">
+        <p><strong>Olá</strong>, me chamo <em>João Pedro Sales de Deus</em>, tenho 22 anos, moro em Belo Horizonte e sou Desenvolvedor Back-end e Front-end. Atualmente, estou cursando Ciência da Computação na Universidade Pontifícia Universidade Católica de Minas Gerais, e estou no 1° período.</p>
     </div>
 </div>
 
------
 
-<div align="center">
-<table>
-<tr>
- <td align="center" colspan="11"></td>
-</tr> 
-<tr>
-<td><a href="https://github.com/JoaoPedroSalesDeuss" target="_blank"><img src="https://github.com/JoaoPedroSalesDeuss/JoaoPedroSalesDeuss/blob/main/img/github.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://mail.google.com/mail/u/1/#inbox?compose=CllgCJfpKljLGkKlBgVcjfHfZHcPzvlKtSMmLdLDlJMfFsDtdmLZCLDxctJqJSRVDvFBwZcvdRL" target="_blank"><img src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/gmail2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://w.app/joaopedrosalesdedeus" target="_blank"><img src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-sales-de-deus-6b7988304/" target="_blank"><img src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://discord.com/channels/joaodevsimple" target="_blank"><img src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/discord2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-</tr>
-<tr>
- <td align="center" colspan="11"></td>
-</tr> 
-</table>
-
-</div>
-<div align="justify">
-<i>:wave: <b>Olá</b>, me chamo <code>João Pedro Sales de Deus</code>, tenho 22 anos, moro em Belo Horizonte e sou Desenvolvedor Back-end e Front-end. Atualmente, estou cursando Ciência da Computação na Universidade <code>Pontifícia Universidade Católica de Minas Gerais</code>, e estou no 1° período.</i>👨🏻‍💻<br />
-</div>
-
------
-
-<img height="20" alt="GIF" src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
-<div align="justify">
-Sou o joão Pedro Sales de Deus, tenho 22 anos e cursando Ciência da Computação na universidade Pontifícia Universidade Católica de Minas Gerais (Puc Minas). Pretendo trabalhar na área de Segunraça da Informação e Desenvolvimento de Software. Após minha graduação, quero fazer uma pós em cibersegurança e Desenvolvimento de Software, e ir estudar / trabalhar no Canadá.
-</div>
 
 -----
 
 <div>
 <div>
-<img align="right" alt="GIF" src="https://github.com/JoaoPedroSalesDeuss/JoaoPedroSalesDeuss/blob/main/minha%20pasta/119813.gif?raw=true" width="300px" height="300px"/>
+<img align="right" alt="GIF" src="https://data.bloggif.com/distant/user/store/6/1/6/7/54ee9f03ee140cafb287e73a3e3b7616.gif" alt="Montagem criada Bloggif" width="300" height="250" />
 </div>
 
 <img height="20" alt="GIF" src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
