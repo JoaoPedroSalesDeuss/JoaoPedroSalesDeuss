@@ -1,7 +1,7 @@
 -----
 
 <div style="display: flex; align-items: center; justify-content: center;">
-    <img alt="Header" src="https://github.com/JoaoPedroSalesDeuss/JoaoPedroSalesDeuss/blob/main/minha%20pasta/15675.gif?raw=true" style="animation-play-state: running; display: flex; align-items: center; justify-content= center;"/>
+    <img alt="Header" src="https://github.com/JoaoPedroSalesDeuss/JoaoPedroSalesDeuss/blob/main/minha%20pasta/120172.gif?raw=true" style="animation-play-state: running; display: flex; align-items: center; justify-content= center;"/>
     <div>
         <i>:wave: <b>Olá</b>, me chamo <code>João Pedro Sales de Deus</code>, tenho 22 anos, moro em Belo Horizonte e sou Desenvolvedor Back-end e Front-end. Atualmente, estou cursando Ciência da Computação na Universidade <code>Pontifícia Universidade Católica de Minas Gerais</code>, e estou no 1° período.</i>👨🏻‍💻<br />
     </div>
