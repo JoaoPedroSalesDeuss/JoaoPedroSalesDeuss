@@ -47,7 +47,7 @@ Sou o joão Pedro Sales de Deus, tenho 22 anos e cursando Ciência da Computaç�
 
 <div>
 <div>
-<img align="right" alt="GIF" src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/dev.gif?raw=true" width="300px" height="300px"/>
+<img align="right" alt="GIF" src="https://github.com/JoaoPedroSalesDeuss/JoaoPedroSalesDeuss/blob/main/minha%20pasta/119813.gif?raw=true" width="300px" height="300px"/>
 </div>
 
 <img height="20" alt="GIF" src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
