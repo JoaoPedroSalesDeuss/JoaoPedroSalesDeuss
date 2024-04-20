@@ -1,7 +1,7 @@
 -----
 
 <div style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://data.bloggif.com/distant/user/store/9/8/b/4/dd3b0fff0f60506a53a09e9e41cc4b89.gif" alt="Montagem criada Bloggif" width="1028" height="308" />
+    <img src="https://github.com/JoaoPedroSalesDeuss/JoaoPedroSalesDeuss/blob/main/minha%20pasta/header.gif" width="1028" height="350" />
     <div>
         <i>:wave: <b>Olá</b>, me chamo <code>João Pedro Sales de Deus</code>, tenho 22 anos, moro em Belo Horizonte e sou Desenvolvedor Back-end e Front-end. Atualmente, estou cursando Ciência da Computação na Universidade <code>Pontifícia Universidade Católica de Minas Gerais</code>, e estou no 1° período.</i>👨🏻‍💻<br />
     </div>
