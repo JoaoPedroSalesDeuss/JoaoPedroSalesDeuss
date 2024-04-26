@@ -1,13 +1,15 @@
 -----
 
-
-<div style="display: flex; align-items: center;">
-    <img src="https://data.bloggif.com/distant/user/store/0/8/a/8/f03f35b76d7c923ccbef643585088a80.gif" alt="Imagem de Perfil" style="width: 200px; height: auto; margin-right: 20px;">
-    <div style="font-family: Arial, sans-serif; font-size: 16px; line-height: 1.5;">
-        <p><strong>Olá</strong>, me chamo <em>João Pedro Sales de Deus</em>, tenho 22 anos, moro em Belo Horizonte e sou Desenvolvedor Back-end e Front-end. Atualmente, estou cursando Ciência da Computação na Universidade Pontifícia Universidade Católica de Minas Gerais, e estou no 1° período.</p>
-    </div>
-</div>
-
+<table>
+  <tr>
+    <td>
+      <img src="https://data.bloggif.com/distant/user/store/0/8/a/8/f03f35b76d7c923ccbef643585088a80.gif" alt="Imagem de Perfil" style="width: 300px;">
+    </td>
+    <td style="font-size: 38px;">
+      <strong>Olá</strong>, me chamo <em>João Pedro Sales de Deus</em>, tenho 22 anos, moro em Belo Horizonte e sou Desenvolvedor Back-end e Front-end. Atualmente, estou cursando Ciência da Computação na Universidade Pontifícia Universidade Católica de Minas Gerais, e estou no 1° período.
+    </td>
+  </tr>
+</table>
 
 
 -----
