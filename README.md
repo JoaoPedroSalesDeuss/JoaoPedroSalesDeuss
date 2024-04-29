@@ -1,8 +1,20 @@
-<img src="https://github.com/JoaoPedroSalesDeuss/JoaoPedroSalesDeuss/blob/main/minha%20pasta/header-github.jpg" alt="Imagem de Perfil" width="1000px" height="300px"> <!-- Altere o valor de width para ajustar a largura desejada -->
+## Prazer, meu chamo João Pedro Sales de Deus!
 
------
-<p align="center">
-  <strong style="font-size: 20px;">"Defendendo a liberdade na era digital"</strong>
-</p>
-
------
+<div style="display: inline_block"><br>
+  <h1>Tecnologias Utilizadas: </h1>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+  
+  ##
+ 
+<div>
+    <h1>Contatos:</h1>
+  <a href = "mailto:joaopedrosalesdedeuss2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-sales-de-deus-35500a303/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
