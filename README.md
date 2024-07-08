@@ -21,22 +21,22 @@
 </tr>
 <tr>
 <td>
-<a href="https://github.com/Mateus-Resende-Ottoni" target="_blank">
+<a href="https://github.com/JoaoPedroSalesDeuss" target="_blank">
 <img src="https://github.com/Mateus-Resende-Ottoni/Mateus-Resende-Ottoni/blob/main/img/github_custom.png?raw=true" width="100px" height="75px"/>
 </a>
 </td>
 <td>
-<a href="mailto:mateus.resende.ottoni@gmail.com" target="_blank">
+<a href="mailto:joaopedrosalesdedeuss@hotmail.com" target="_blank">
 <img src="https://github.com/Mateus-Resende-Ottoni/Mateus-Resende-Ottoni/blob/main/img/gmail_custom.png?raw=true" width="75px" height="75px"/>
 </a>
 </td>
 <td>
-<a href="https://discordapp.com/users/410787257969278977" target="_blank">
+<a href="https://discordapp.com/users/1230889954511687801" target="_blank">
 <img src="https://github.com/Mateus-Resende-Ottoni/Mateus-Resende-Ottoni/blob/main/img/discord_custom.png?raw=true" width="75px" height="75px"/>
 </a>
 </td>
 <td>
-<a href="https://calendly.com/mateus-resende-ottoni" target="_blank">
+<a href="" target="_blank">
 <img src="https://github.com/Mateus-Resende-Ottoni/Mateus-Resende-Ottoni/blob/main/img/calendar_custom.png?raw=true" width="75px" height="75px"/>
 </a>
 </td>
@@ -50,7 +50,7 @@
 
 <!-- Meus Interesses -->
 <div style="display: flex; align-items: center;">
-    <img align="right" alt="GIF" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="250px" height="250px" style="margin-right: 20px;"/>
+    <img align="right" alt="GIF" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="200px" height="200px" style="margin-right: 20px;"/>
     <div>
         <p>
             <img height="20" alt="GIF" src="https://github.com/Mateus-Resende-Ottoni/Mateus-Resende-Ottoni/blob/main/img/soulgem.gif?raw=true"/> Meus interesses pessoais:
