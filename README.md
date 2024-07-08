@@ -48,6 +48,28 @@
 </div>
 <hr style="width:50%; text-align:left; margin-left:0;">
 
+<!-- Meus Interesses -->
+<div style="display: flex; align-items: center;">
+    <img align="right" alt="GIF" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="250px" height="250px" style="margin-right: 20px;"/>
+    <div>
+        <p>
+            <img height="20" alt="GIF" src="https://github.com/Mateus-Resende-Ottoni/Mateus-Resende-Ottoni/blob/main/img/soulgem.gif?raw=true"/> Meus interesses pessoais:
+        </p>
+        <ul>
+            <li>:man_student: &nbsp; Sou estudante de Ciências da Computação</li>
+            <li>:briefcase: &nbsp; Tenho interesse em vagas para Dev Jr.</li>
+            <li>:airplane: &nbsp; Adoro a premissa de viajar e conhecer novos lugares.</li>
+            <li>:video_game: &nbsp; Gosto de jogar nas horas vagas, principalmente jogos como Stardew Valley.</li>
+            <li>:speech_balloon: &nbsp; Pergunte-me algo que tenha dúvida, ajudar os outros é um talento meu.</li>
+            <li>:mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:mateus.resende.ottoni@gmail.com" target="_blank">e-mail</a> pessoal.</li>
+            <li>:calendar: &nbsp; Essa é minha <a href="https://calendly.com/mateus-resende-ottoni/30min" target="_blank">agenda</a> se quiser marcar um horário para falarmos.</li>
+        </ul>
+    </div>
+</div>
+<hr style="width:50%; text-align:left; margin-left:0;">
+<br>
+<br>
+
 <!-- Alinhando GIF e Texto -->
 <div style="display: flex; align-items: center; justify-content: center;">
 <img height="20" alt="GIF" src="https://github.com/Mateus-Resende-Ottoni/Mateus-Resende-Ottoni/blob/main/img/skills.gif?raw=true"/>&nbsp; <span>Linguagens e ferramentas:</span>
@@ -96,22 +118,12 @@
 &nbsp;
 <code><a href="https://jestjs.io/pt-BR/" target="_blank"><img width="30" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/jest.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://newrelic.com/pt" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/newrelic.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://fastapi.tiangolo.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/fastapi.svg?raw=true"/></a></code>
-&nbsp; 
 <code><a href="https://www.docker.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/docker.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://aws.amazon.com/pt/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/aws.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://www.postman.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/postman.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://insomnia.rest/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/insomnia.png?raw=true"/></a></code>
-&nbsp; 
 <code><a href="https://www.soapui.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soap.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://redis.io/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/redis.png?raw=true"/></a></code>
-&nbsp;
 <code><a href="https://aws.amazon.com/pt/s3/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/s3.svg?raw=true"/></a></code>
 &nbsp;
 <code><a href="https://aws.amazon.com/pt/sqs/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/sqs.png?raw=true"/></a></code>
