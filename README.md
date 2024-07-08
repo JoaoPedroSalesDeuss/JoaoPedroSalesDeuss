@@ -112,3 +112,40 @@
 </div>
 
 <hr style="width:50%; text-align:left; margin-left:0;">
+
+<div style="text-align:right">
+
+  <img src="https://img.shields.io/badge/C-Enthusiast-blue"/>
+  <img src="https://img.shields.io/badge/TDD-Advocate-blue"/>
+  <img src="https://img.shields.io/badge/Clean%20Code-Evangelist-blue"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Lover-blue?logo=opensourceinitiative"/>
+
+  <a href="https://github.com/pythonmg" target="_blank">
+  <img alt="Python-MG" src="https://img.shields.io/badge/Siga%20a%20comunidade%20mineira%20de%20python%3A-Python--MG-blue?logo=Python"/></a>
+  <img src="https://img.shields.io/badge/OS-Hater-informational?logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OS-Linux-informational?logo=linux&logoColor=white"/>
+  
+  <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=Mateus-Resende-Ottoni"/>
+  <img alt="Forks" src="https://img.shields.io/github/forks/Mateus-Resende-Ottoni/Mateus-Resende-Ottoni?logo=git"/>
+  <a href="https://stars.github.com/nominate/" target="_blank">
+     <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20useful&color=blue"/></a>
+
+  <img alt="Followers" src="https://img.shields.io/github/followers/Mateus-Resende-Ottoni?style=social"/>
+  <img alt="Stars" src="https://img.shields.io/github/stars/Mateus-Resende-Ottoni?style=social"/>
+  
+</div>
+
+<hr style="width:50%; text-align:left; margin-left:0;">
+
+<div>
+
+  <a href="mailto:mateus.resende.ottoni@gmail.com" target="_blank">
+     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://discordapp.com/users/410787257969278977" target="_blank">
+     <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+
+</div>
+
+<div>
+  <img align="center" alt="Footer" width="1200px" height="20px" src="https://github.com/Mateus-Resende-Ottoni/Mateus-Resende-Ottoni/blob/main/img/footer-red.gif?raw=true"/>
+</div>
