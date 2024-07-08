@@ -56,13 +56,11 @@
             <img height="20" alt="GIF" src="https://github.com/Mateus-Resende-Ottoni/Mateus-Resende-Ottoni/blob/main/img/soulgem.gif?raw=true"/> Meus interesses pessoais:
         </p>
         <ul>
-            <li>:man_student: &nbsp; Sou estudante de Ciências da Computação</li>
-            <li>:briefcase: &nbsp; Tenho interesse em vagas para Dev Jr.</li>
-            <li>:airplane: &nbsp; Adoro a premissa de viajar e conhecer novos lugares.</li>
-            <li>:video_game: &nbsp; Gosto de jogar nas horas vagas, principalmente jogos como Stardew Valley.</li>
+            <li>:man_student: &nbsp; Estudante de Ciências da Computação.</li>
+            <li>:briefcase: &nbsp; Tenho interesse em vagas para Dev Jr e Estágio.</li>
+            <li>:airplane: &nbsp; Amo meu país, porém meu coração é Canadense.</li>
+            <li>:video_game: &nbsp; Gosto de jogar nas horas vagas, principalmente jogos como CS2.</li>
             <li>:speech_balloon: &nbsp; Pergunte-me algo que tenha dúvida, ajudar os outros é um talento meu.</li>
-            <li>:mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:mateus.resende.ottoni@gmail.com" target="_blank">e-mail</a> pessoal.</li>
-            <li>:calendar: &nbsp; Essa é minha <a href="https://calendly.com/mateus-resende-ottoni/30min" target="_blank">agenda</a> se quiser marcar um horário para falarmos.</li>
         </ul>
     </div>
 </div>
