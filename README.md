@@ -135,17 +135,6 @@
   
 </div>
 
-<hr style="width:50%; text-align:left; margin-left:0;">
-
-<div>
-
-  <a href="mailto:mateus.resende.ottoni@gmail.com" target="_blank">
-     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://discordapp.com/users/410787257969278977" target="_blank">
-     <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-
-</div>
-
 <div>
   <img align="center" alt="Footer" width="1200px" height="20px" src="https://github.com/Mateus-Resende-Ottoni/Mateus-Resende-Ottoni/blob/main/img/footer-red.gif?raw=true"/>
 </div>
